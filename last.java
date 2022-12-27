@@ -1,11 +1,6 @@
 package mypkg;
 class HelloWorld{
 	public static void main(String[] args){
-		System.out.println("Task");
-		
-		
+		System.out.println("last one");
 	}
 }
-
-
-
